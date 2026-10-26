@@ -1,73 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080c18,50:162d59,100:00c4ff&text=FERID%20CEFERLI&fontColor=ffffff&fontSize=43&fontAlignY=39&desc=Developer%20%7C%20Automation%20%7C%20Cybersecurity&descAlignY=61&animation=fadeIn" width="100%" alt="Ferid Ceferli banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:10254d,100:00d4ff&text=FERID%20CEFERLI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Automation%20%E2%80%A2%20Security&descSize=17&descAlignY=60&animation=fadeIn" alt="Profile header"/>
 
-<a href="https://github.com/feridceferli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+useful+tools+with+Python;Telegram+Bots+%26+Automation;Web+Dashboards+%26+Integrations;Learning+%7C+Building+%7C+Improving" alt="Typing introduction" /></a>
+<a href="https://github.com/feridceferli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=950&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ferid+%F0%9F%91%8B;Python+%7C+Telegram+Bots+%7C+Web+Apps;Automation+%7C+Security+%7C+Open+Source;Turning+ideas+into+working+projects" alt="Typing introduction"/></a>
 
-**Salam! 👋 Mən Fərid.**
+**Salam! Mən Fərid — ideyaları işlək layihələrə çevirən developer.**
 
-*Ideyaları kodla real layihələrə çevirirəm.*
-
-[![Profile views](https://komarev.com/ghpvc/?username=feridceferli&style=for-the-badge&color=0077b6)](https://github.com/feridceferli)
-[![Followers](https://img.shields.io/github/followers/feridceferli?style=for-the-badge&logo=github&label=Followers)](https://github.com/feridceferli?tab=followers)
+<a href="https://github.com/feridceferli?tab=followers"><img src="https://img.shields.io/github/followers/feridceferli?label=Followers&style=for-the-badge&color=00bcd4&labelColor=101827"/></a>
+<img src="https://komarev.com/ghpvc/?username=feridceferli&style=for-the-badge&color=00bcd4&labelColor=101827" alt="Profile views"/>
+<a href="https://t.me/lacin_0411"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 </div>
 
 ---
 
-### ⚡ Haqqımda
+### 🧑‍💻 About me
 
-- 🐍 **Python** ilə botlar, avtomatlaşdırma və backend tətbiqləri üzərində işləyirəm.
-- 🤖 **Telegram botları** və **Mini App** interfeyslərinə marağım var.
-- 📲 **SMS panelləri**, nömrə idarəetməsi və xidmət inteqrasiyalarını araşdırıram.
-- 🛡️ **Kibertəhlükəsizlik**, açıq mənbə alətləri və təhlükəsiz proqramlaşdırma ilə maraqlanıram.
-- 🚀 Yeni ideyaları test edib daha rahat və səliqəli məhsullara çevirməyi sevirəm.
+```yaml
+name: Ferid Ceferli
+focus:
+  - Python development
+  - Telegram bots and mini apps
+  - Web dashboards and integrations
+  - Security-minded automation
+mindset: "Build. Test. Improve. Repeat."
+```
 
-### 🧰 Texnologiyalar
+### ⚡ Tech stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,postgres,sqlite,linux,docker,git,github,vscode&perline=6" alt="Technology icons"/>
 
 </div>
 
-### 🔥 GitHub layihələrim
+### 🚀 Selected projects
 
-| Layihə | Nə haqqındadır? |
-|:---|:---|
-| [**ivasmss**](https://github.com/feridceferli/ivasmss) | SMS paneli və Telegram bot inteqrasiyası |
-| [**IvasSMSPanelAPI**](https://github.com/feridceferli/IvasSMSPanelAPI) | SMS panel backend inteqrasiyası |
-| [**TELEGRAMSMSBOT**](https://github.com/feridceferli/TELEGRAMSMSBOT) | Telegram üzərindən SMS bot layihəsi |
-| [**tiktok-chest-bot**](https://github.com/feridceferli/tiktok-chest-bot) | TikTok bot avtomatlaşdırma təcrübələri |
+| Project | What it's about |
+|:--|:--|
+| [**ivasmss**](https://github.com/feridceferli/ivasmss) | SMS panel and Telegram bot integrations |
+| [**IvasSMSPanelAPI**](https://github.com/feridceferli/IvasSMSPanelAPI) | Backend integration experiments |
+| [**panel-bot**](https://github.com/feridceferli/panel-bot) | Telegram panel bot |
+| [**HardBotv2**](https://github.com/feridceferli/HardBotv2) | Bot development project |
 
-### 📊 GitHub statistikası
+### 📈 GitHub activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=feridceferli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistikası" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feridceferli&layout=compact&theme=tokyonight&hide_border=true" alt="Ən çox istifadə edilən dillər" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=feridceferli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feridceferli&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=feridceferli&theme=tokyonight&hide_border=true" alt="GitHub aktivliyi" />
+<img src="https://streak-stats.demolab.com?user=feridceferli&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
-### 🌐 Əlaqə
+### 🤝 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github)](https://github.com/feridceferli)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lacin_0411)
+<a href="https://github.com/feridceferli"><img src="https://img.shields.io/badge/GitHub-Follow-101827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://t.me/lacin_0411"><img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-**“Keep building. Keep learning.”** ✨
+**“Keep building. Keep learning. Keep improving.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:080c18,50:162d59,100:00c4ff" width="100%" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,50:10254d,100:00d4ff" alt="Footer"/>
 
 </div>
